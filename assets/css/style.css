@@ -1,0 +1,27 @@
+
+#blueSquare, #redSquare, #greenSquare, #yellowSquare, #key {
+    width: 200px;
+    height: 200px;
+    margin: 5px 0;
+}
+
+#blueSquare {
+    background-color: #0000ff;
+}
+
+#redSquare {
+    background-color: #ff0000;
+}
+
+#greenSquare {
+    background-color: #008000;
+}
+
+#yellowSquare {
+    background-color: #ffff00;
+}
+
+#key {
+    border: 1px solid #000;
+    background-color: #fff;
+}
